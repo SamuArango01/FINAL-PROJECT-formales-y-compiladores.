@@ -26,10 +26,10 @@ python --version
 ## Usage Instructions
 
 ### Running the Program
-1. Save the code to a file named `parser.py`
+1. Save the code to a file named `main.py`
 2. Run the program from command line:
 ```bash
-python parser.py
+python main.py
 ```
 
 ### Input Format
@@ -91,4 +91,3 @@ If you encounter issues:
 2. Check that input follows the specified format
 3. Ensure non-terminals are uppercase and terminals are lowercase
 4. Make sure productions are separated by spaces
-```
