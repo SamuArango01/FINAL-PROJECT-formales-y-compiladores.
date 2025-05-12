@@ -1,7 +1,7 @@
 
 # LL(1) and SLR(1) Parser Implementation
 
-## Authors
+## Group Members
 - Alyson Henao
 - Nathalia Cardoza
 - Samuel Arango
@@ -26,10 +26,10 @@ python --version
 ## Usage Instructions
 
 ### Running the Program
-1. Save the code to a file named `main.py`
+1. Save the code to a file named `parser.py`
 2. Run the program from command line:
 ```bash
-python main.py
+python parser.py
 ```
 
 ### Input Format
@@ -92,4 +92,3 @@ If you encounter issues:
 3. Ensure non-terminals are uppercase and terminals are lowercase
 4. Make sure productions are separated by spaces
 ```
-
