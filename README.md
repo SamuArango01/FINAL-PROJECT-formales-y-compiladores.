@@ -1,14 +1,12 @@
-Claro, aquí tienes el contenido listo para copiar y pegar en tu archivo `README.md`:
 
-````markdown
 # Grammar Analyzer: LL(1) and SLR(1) Parser
 
-## 👥 Authors
+## Authors
 - Alyson Henao  
 - Nathalia Cardoza  
 - Samuel Arango  
 
-## 🖥️ Environment and Tools Used
+##  Environment and Tools Used
 - **Operating System**: Windows 11 and Ubuntu 22.04  
 - **Programming Language**: Python 3.10+  
 - **Editor**: Visual Studio Code / PyCharm / Terminal + Vim  
@@ -23,7 +21,7 @@ This project implements a grammar analyzer for formal languages, supporting:
 
 The tool is designed to aid in compiler design, language parsing, and automata theory education.
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### 1. Requirements
 Make sure you have Python installed. You can check by running:
@@ -93,7 +91,7 @@ LL(1) check: True
 Parsing result: True
 ```
 
-## 📌 Notes
+##  Notes
 
 * The grammar must be provided as a dictionary where keys are nonterminals and values are lists of production alternatives.
 * Use `'e'` to denote ε (epsilon).
